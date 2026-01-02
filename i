@@ -8,7 +8,7 @@
           "value": "modshub.preview.emergentagent.com"
         }
       ],
-      "destination": "https://bmodshub.com/:path*",
+      "destination": "https://bmodshub.com/ibo
       "permanent": true
     }
   ]
