@@ -1,14 +1,14 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
+      "source": "/:path*",
       "has": [
         {
           "type": "host",
           "value": "modshub.preview.emergentagent.com"
         }
       ],
-      "destination": "https://bmodshub.com/$1",
+      "destination": "https://bmodshub.com/:path*",
       "permanent": true
     }
   ]
